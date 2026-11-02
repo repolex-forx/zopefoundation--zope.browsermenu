@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "zope.browsermenu",
+  "versions": [
+    {
+      "commit": "42a38908d144143bbab5408bea11f63f440baf05",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:40:29.015111+00:00"
+    }
+  ]
+}
