@@ -3,6 +3,11 @@
   "repo": "zope.browsermenu",
   "versions": [
     {
+      "commit": "5a3ee8b53044c7d22b3b6c4b1acb960ff081037a",
+      "tag": "6.0",
+      "parsed_at": "2026-11-22T00:20:23.194292+00:00"
+    },
+    {
       "commit": "42a38908d144143bbab5408bea11f63f440baf05",
       "tag": "",
       "parsed_at": "2026-11-02T21:40:29.015111+00:00"
